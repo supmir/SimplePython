@@ -6,7 +6,7 @@ the_storm = input()
 The_Gods = 1
 the_chaos = 2
 a_pair = 2
-your_willpower = 4
+your_willpower = 10
 if the_storm <= (a_pair * a_pair):
     if the_storm <= The_Gods:
         print("This ain't allowed!")
